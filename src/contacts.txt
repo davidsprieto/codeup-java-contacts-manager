@@ -1,4 +1,4 @@
-John Paul Jones 2027814596
-William Shatner 4558997766
-Joan Jett 8128675309
-Troy Aikman 7578886555
+John Paul Jones, 2027814596
+William Shatner, 4558997766
+Joan Jett, 8128675309
+Troy Aikman, 7578886555
