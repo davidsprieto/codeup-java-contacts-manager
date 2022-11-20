@@ -1,2 +1,2 @@
-# contact-manager
-Java Contact Manager
+# contacts-manager
+Java Contacts Manager
