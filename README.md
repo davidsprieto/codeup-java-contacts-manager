@@ -1,4 +1,1 @@
-<h1 align=center>Contacts Manager - Keep Track of Your Contacts</h1>
-
-Command line program developed with:
-- Java
+<h1 align=center>Contacts Manager - Codeup Repository for Java Command Line Program</h1>
