@@ -2,6 +2,4 @@
 ## Codeup Pair Programming Project
 
 Java Command Line Interface application developed using:
-
-Programming Language:
 - Java
