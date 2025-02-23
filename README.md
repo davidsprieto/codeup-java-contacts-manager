@@ -1,6 +1,7 @@
 # Contacts Manager - Keep Track of Your Contacts!
+## Codeup Pair Programming Project
 
-Java CLI Application developed using:
+Java Command Line Interface application developed using:
 
 Programming Language:
 - Java
